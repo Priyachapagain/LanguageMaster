@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "840895828897",
+    "project_id": "duolingo-d7268",
+    "storage_bucket": "duolingo-d7268.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840895828897:android:7ed0a776afbdb26e5371e0",
+        "android_client_info": {
+          "package_name": "com.example.duolingo_clone_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgtgQbZtdeXucLIuRu6AvbCq_KRH9y49I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
