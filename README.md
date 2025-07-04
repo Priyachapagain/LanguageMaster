@@ -33,8 +33,7 @@
 ### Congratulations Screen
 <img src="https://github.com/Priyachapagain/LanguageMaster/blob/main/assets/upload/image9.jpeg" alt="Profile" height="300"/>
 
-### Firebase
-<img src="hhttps://github.com/Priyachapagain/LanguageMaster/blob/main/assets/upload/Screenshot%20from%202025-07-04%2010-49-45.png" alt="Firebase" height="300"/>
+
 
 ## Demo Video
 
