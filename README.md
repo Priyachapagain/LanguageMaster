@@ -35,7 +35,3 @@
 
 
 
-## Demo Video
-
-Watch a demo of the LanguageMaster app here: [LanguageMaster Demo](https://www.youtube.com/shorts/ntek5OYTWEE)
-
